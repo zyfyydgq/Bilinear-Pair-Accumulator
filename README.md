@@ -14,5 +14,5 @@ Firstly, compiling and executing the file "main.cpp" to generate random file dat
 Then running the file "PBC.cpp" to test the algorithm's correctness and efficiency.
 
 ## Contact 
-The code is written by Yifang Zhang. He is currently pursuing the master's degree in Department of Artificial Intelligence, Beijing Normal University of China. 
+The code is written by Yifang Zhang. He is currently pursuing the master's degree in Department of Artificial Intelligence, Beijing Normal University of China.  
 Mail: zyfyydgq@mail.bnu.edu.cn
