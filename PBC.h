@@ -1,0 +1,10 @@
+//
+// Created by Administrator on 2021/10/22.
+//
+
+#ifndef BILINEAR_PAIR_ACCUMULATOR_PBC_H
+#define BILINEAR_PAIR_ACCUMULATOR_PBC_H
+
+#endif //BILINEAR_PAIR_ACCUMULATOR_PBC_H
+
+void PBC();

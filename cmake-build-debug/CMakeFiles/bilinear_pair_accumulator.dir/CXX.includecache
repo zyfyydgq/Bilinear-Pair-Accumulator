@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+F:/bilinear pair accumulator/PBC.h
+
+F:/bilinear pair accumulator/RSA.h
+
+F:/bilinear pair accumulator/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+stdlib.h
+-
+math.h
+-
+functional
+-
+malloc.h
+-
+ctime
+-
+RSA.h
+F:/bilinear pair accumulator/RSA.h
+preBuild.h
+F:/bilinear pair accumulator/preBuild.h
+PBC.h
+F:/bilinear pair accumulator/PBC.h
+
+F:/bilinear pair accumulator/preBuild.h
+
